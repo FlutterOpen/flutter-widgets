@@ -12,4 +12,9 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.CONTAINER,
   },
+  {
+    "title": PageName.TEXT,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.TEXT,
+  },
 ];
