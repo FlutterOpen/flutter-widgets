@@ -1,5 +1,10 @@
 # flutter_widgets
+### :heart: Star :heart: the repo to support the project or :smile:[Follow Me](https://github.com/nb312).Thanks!
+Facebook Page| Facebook Group | QQ Group | Developer |
+--- | --- | --- | ---
+[Flutter Open ](https://www.facebook.com/flutteropen) | [Flutter Open](https://www.facebook.com/groups/948618338674126/) |  963828159 |[NieBin](https://github.com/nb312)  
 
+I will write articles about these widgets list below. If the the widgets has the link means I have done them, otherwise are not.
 ### Base widgets
 1 | 2 | 3 | 4 | 5 | 6
 --- | --- | --- | --- | --- | ---
