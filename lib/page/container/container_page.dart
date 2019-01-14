@@ -56,18 +56,59 @@ class _ContainerState extends State<ContainerPage> {
             ),
           ),
           Container(
-              color: BLUE_LIGHT,
-              alignment: AlignmentDirectional.topStart,
-              height: 200,
-              width: 200,
-              child: Row(
-                mainAxisSize: MainAxisSize.max,
-                textDirection: TextDirection.rtl,
-                children: <Widget>[
-                  Text("Hellowww1"),
-                  Text("Hellowww2"),
-                ],
-              )),
+            color: BLUE_LIGHT,
+            alignment: Alignment.bottomRight,
+            height: 200,
+            child: Text("this.alignment"),
+          ),
+          Container(
+            color: YELLOW,
+            height: 100.0,
+            alignment: AlignmentDirectional.bottomEnd,
+            child: Text(
+              "HellH",
+              textDirection: TextDirection.rtl,
+            ),
+          ),
+          Container(
+            color: BLUE_LIGHT,
+            constraints: BoxConstraints.expand(height: 50.0),
+            child: Text("BoxConstraints constraints"),
+          ),
+          Container(
+            constraints: BoxConstraints.expand(height: 100.0),
+            padding: EdgeInsets.all(10),
+            decoration: ShapeDecoration(
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.all(
+                    Radius.circular(10.0),
+                  ),
+                ),
+                color: RED),
+            child: Text("decoration: ShapeDecoration"),
+          ),
+          Container(
+            constraints: BoxConstraints.expand(height: 200.0),
+            alignment: Alignment.center,
+            padding: EdgeInsets.all(10),
+            decoration: BoxDecoration(
+                gradient: LinearGradient(colors: [BLUE_LIGHT, YELLOW]),
+                shape: BoxShape.circle),
+            child: Text("decoration: BoxDecoration"),
+          ),
+          Container(
+            padding: EdgeInsets.only(top: 10, left: 10),
+            constraints: BoxConstraints.expand(height: 100, width: 100),
+            color: BLUE_LIGHT,
+            child: Text("this.transform"),
+          ),
+          Container(
+            padding: EdgeInsets.only(top: 10, left: 10),
+            constraints: BoxConstraints.expand(width: 100, height: 100),
+            color: RED_LIGHT,
+            transform: Matrix4.rotationY(pi / 4)..rotateX(pi / 4),
+            child: Text("this.transform"),
+          )
         ],
       )),
     );
