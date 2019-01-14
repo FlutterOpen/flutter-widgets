@@ -5,4 +5,5 @@
 ///
 class PageName {
   static const CONTAINER = "Contanter";
+  static const TEXT = "Text";
 }

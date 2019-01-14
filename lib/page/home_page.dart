@@ -5,6 +5,7 @@
 ///
 import "package:flutter/material.dart";
 import 'package:flutter_widgets/const/_const.dart';
+import 'package:flutter_widgets/util/_util.dart';
 
 class HomePage extends StatefulWidget {
   @override
@@ -12,6 +13,42 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomeState extends State<HomePage> {
+  var opacity = 0.8;
+
+  LinearGradient _itemGradient(index) {
+    var gradient = GradientUtil.red(
+        begin: AlignmentDirectional.topStart,
+        end: AlignmentDirectional.bottomEnd,
+        opacity: opacity);
+    switch (index % 4) {
+      case 0:
+        gradient = GradientUtil.red(
+            begin: AlignmentDirectional.topStart,
+            end: AlignmentDirectional.bottomEnd,
+            opacity: opacity);
+        break;
+      case 1:
+        gradient = GradientUtil.greenPurple(
+            begin: AlignmentDirectional.topStart,
+            end: AlignmentDirectional.bottomEnd,
+            opacity: opacity);
+        break;
+      case 2:
+        gradient = GradientUtil.greenRed(
+            begin: AlignmentDirectional.topStart,
+            end: AlignmentDirectional.bottomEnd,
+            opacity: opacity);
+        break;
+      case 3:
+        gradient = GradientUtil.yellowBlue(
+            begin: AlignmentDirectional.topStart,
+            end: AlignmentDirectional.bottomEnd,
+            opacity: opacity);
+        break;
+    }
+    return gradient;
+  }
+
   Widget _item(context, index) {
     return InkWell(
       child: Card(
@@ -23,10 +60,17 @@ class _HomeState extends State<HomePage> {
               fit: BoxFit.cover,
             ),
           ),
+          Container(
+            constraints: BoxConstraints.expand(),
+            decoration: BoxDecoration(gradient: _itemGradient(index)),
+          ),
           Center(
             child: Text(
               PAGE_ITEMS[index]["title"],
-              style: TextStyle(color: TEXT_BLACK, fontSize: TEXT_LARGE),
+              style: TextStyle(
+                  color: TEXT_BLACK_LIGHT,
+                  fontSize: TEXT_LARGE,
+                  fontWeight: FontWeight.w700),
             ),
           )
         ],

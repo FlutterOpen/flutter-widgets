@@ -14,10 +14,9 @@ class FlutterOpenApp extends StatelessWidget {
         SizeUtil.initDesignSize();
 
     return MaterialApp(
+
       title: FLUTTER_OPEN,
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
+      theme: ThemeData(primaryColor: BLUE_DEEP),
       home: HomePage(),
       routes: {
         PageName.CONTAINER: (context) => ContainerPage(),
