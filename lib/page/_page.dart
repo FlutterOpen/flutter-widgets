@@ -6,3 +6,4 @@
 export "home_page.dart";
 export 'empty_page.dart';
 export 'container/container_page.dart';
+export 'text/text_page.dart';
