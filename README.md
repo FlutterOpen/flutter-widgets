@@ -9,6 +9,7 @@ I will write articles about these widgets list below. If the the widgets has the
 1 | 2 | 3 | 4 | 5 | 6
 --- | --- | --- | --- | --- | ---
 [Container](https://flutteropen.gitbook.io/widgets/flutter-widgets-01-container) |	Row | 	Column | 	Image |	[Text](https://flutteropen.gitbook.io/widgets/flutter-open-flutter-widgets-02-text) |	Icon
+<img src="doc/container/container_01.png"  height="200"/><img src="doc/container/container_02.png"  height="200"/> | | | | <img src="doc/text/text_01.png"  height="200"/><img src="doc/text/text_02.png"  height="200"/>
 RaiseButton | Scaffold |	AppBar |	FlutterLogo |	PlaceHolder |
 
 ### Navigation
