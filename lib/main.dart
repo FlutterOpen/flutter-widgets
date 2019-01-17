@@ -10,9 +10,6 @@ class FlutterOpenApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    SizeUtil.getInstance(key: SizeKeyConst.DEVICE_KEY).logicSize =
-        SizeUtil.initDesignSize();
-
     return MaterialApp(
       title: FLUTTER_OPEN,
       theme: ThemeData(primaryColor: BLUE_DEEP),
@@ -20,6 +17,7 @@ class FlutterOpenApp extends StatelessWidget {
       routes: {
         PageName.CONTAINER: (context) => ContainerPage(),
         PageName.TEXT: (context) => TextPage(),
+        PageName.IMAGE: (context) => ImagePage(),
       },
     );
   }
