@@ -441,11 +441,11 @@ class _ImageState extends State<ImagePage> {
           Row(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
-              Text("topleft ", style: TextStyle(color: Colors.grey[700])),
+              Text("bottomleft ", style: TextStyle(color: Colors.grey[700])),
               SizedBox(width: 10),
-              Text("topCenter", style: TextStyle(color: Colors.grey[700])),
+              Text("bottomCenter", style: TextStyle(color: Colors.grey[700])),
               SizedBox(width: 10),
-              Text("topRight", style: TextStyle(color: Colors.grey[700]))
+              Text("bottomRight", style: TextStyle(color: Colors.grey[700]))
             ],
           ),
           SizedBox(height: 20),
