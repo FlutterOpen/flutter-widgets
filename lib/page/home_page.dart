@@ -83,6 +83,10 @@ class _HomeState extends State<HomePage> {
 
   @override
   Widget build(BuildContext context) {
+    SizeUtil.getInstance(key: SizeKeyConst.DEVICE_KEY).logicSize =
+        MediaQuery.of(context).size;
+    print("r:${MediaQuery.of(context).devicePixelRatio}");
+    SizeUtil.initDesignSize();
     return Scaffold(
       appBar: AppBar(
         title: Text(FLUTTER_OPEN),

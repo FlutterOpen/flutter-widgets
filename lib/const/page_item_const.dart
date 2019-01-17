@@ -17,4 +17,9 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.TEXT,
   },
+  {
+    "title": PageName.IMAGE,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.IMAGE,
+  },
 ];
