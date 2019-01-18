@@ -7,4 +7,5 @@ class PageName {
   static const CONTAINER = "Contanter";
   static const TEXT = "Text";
   static const IMAGE = "Image";
+  static const ROW_COLUMN = "Row & Column";
 }

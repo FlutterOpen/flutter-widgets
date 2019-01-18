@@ -22,4 +22,9 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.IMAGE,
   },
+  {
+    "title": PageName.ROW_COLUMN,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.ROW_COLUMN,
+  },
 ];
