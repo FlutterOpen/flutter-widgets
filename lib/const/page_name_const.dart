@@ -8,4 +8,5 @@ class PageName {
   static const TEXT = "Text";
   static const IMAGE = "Image";
   static const ROW_COLUMN = "Row & Column";
+  static const ICON = "Icon";
 }
