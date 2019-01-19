@@ -5,6 +5,7 @@ Facebook Page| Twitter | QQ Group | Developer |
 [Flutter Open ](https://www.facebook.com/flutteropen) | [NieBin](https://twitter.com/niebin_gg) |  963828159 |[NieBin](https://github.com/nb312)  
 # What is the ebook
 The ebook is a book that contains articles and code about flutter widgets.I will write articles about these widgets list below. If the widgets has the link means I have done them, otherwise are not. The whole artcile is here: [ebook articles](https://flutteropen.gitbook.io/widgets/)
+[![The plan of ebook introduce](doc/intro/youtube.png)](https://youtu.be/8fT3creSZPE)
 ### Base widgets
 1 | 2 | 3 | 4 | 5 | 6
 --- | --- | --- | --- | --- | ---
