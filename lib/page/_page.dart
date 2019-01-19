@@ -9,3 +9,4 @@ export 'container/container_page.dart';
 export 'text/text_page.dart';
 export 'img/image_page.dart';
 export 'row/row_column_page.dart';
+export 'icon/icon_page.dart';
