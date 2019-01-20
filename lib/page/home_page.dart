@@ -54,12 +54,12 @@ class _HomeState extends State<HomePage> {
       child: Card(
           child: Stack(
         children: <Widget>[
-          Center(
-            child: Image.asset(
-              PAGE_ITEMS[index]["img"],
-              fit: BoxFit.cover,
-            ),
-          ),
+//          Center(
+//            child: Image.asset(
+//              PAGE_ITEMS[index]["img"],
+//              fit: BoxFit.cover,
+//            ),
+//          ),
           Container(
             constraints: BoxConstraints.expand(),
             decoration: BoxDecoration(gradient: _itemGradient(index)),
@@ -85,7 +85,8 @@ class _HomeState extends State<HomePage> {
   Widget build(BuildContext context) {
     SizeUtil.getInstance(key: SizeKeyConst.DEVICE_KEY).logicSize =
         MediaQuery.of(context).size;
-    print("r:${MediaQuery.of(context).devicePixelRatio}");
+//    var size = MediaQuery.of(context).size;
+//    print("size:width.${size.width},height.${size.height}");
     SizeUtil.initDesignSize();
     return Scaffold(
       appBar: AppBar(
@@ -93,10 +94,10 @@ class _HomeState extends State<HomePage> {
       ),
       body: GridView.builder(
         gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-            crossAxisCount: 1,
+            crossAxisCount: 2,
             mainAxisSpacing: 4,
             crossAxisSpacing: 4,
-            childAspectRatio: 1.2),
+            childAspectRatio: 0.9),
         itemBuilder: (context, index) {
           return _item(context, index);
         },

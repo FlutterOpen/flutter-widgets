@@ -12,7 +12,11 @@ class FlutterOpenApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: FLUTTER_OPEN,
-      theme: ThemeData(primaryColor: BLUE_DEEP),
+      theme: ThemeData(
+        primaryColor: BLUE_DEEP,
+        accentColor: RED,
+        brightness: Brightness.light,
+      ),
       home: HomePage(),
       routes: {
         PageName.CONTAINER: (context) => ContainerPage(),
@@ -20,6 +24,7 @@ class FlutterOpenApp extends StatelessWidget {
         PageName.IMAGE: (context) => ImagePage(),
         PageName.ROW_COLUMN: (context) => RowColumnPage(),
         PageName.ICON: (context) => IconPage(),
+        PageName.RAISE_BUTTON: (context) => RaiseButtonPage(),
       },
     );
   }
