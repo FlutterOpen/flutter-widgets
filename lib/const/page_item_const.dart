@@ -32,4 +32,9 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.ICON,
   },
+  {
+    "title": PageName.RAISE_BUTTON,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.RAISE_BUTTON,
+  },
 ];
