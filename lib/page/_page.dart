@@ -11,3 +11,4 @@ export 'img/image_page.dart';
 export 'row/row_column_page.dart';
 export 'icon/icon_page.dart';
 export 'rasisebutton/raise_button_page.dart';
+export 'appbar/app_bar_page.dart';

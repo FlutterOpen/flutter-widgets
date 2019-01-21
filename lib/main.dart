@@ -25,6 +25,7 @@ class FlutterOpenApp extends StatelessWidget {
         PageName.ROW_COLUMN: (context) => RowColumnPage(),
         PageName.ICON: (context) => IconPage(),
         PageName.RAISE_BUTTON: (context) => RaiseButtonPage(),
+        PageName.APP_BAR: (context) => AppBarPage(),
       },
     );
   }
