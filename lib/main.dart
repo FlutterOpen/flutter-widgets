@@ -26,6 +26,7 @@ class FlutterOpenApp extends StatelessWidget {
         PageName.ICON: (context) => IconPage(),
         PageName.RAISE_BUTTON: (context) => RaiseButtonPage(),
         PageName.APP_BAR: (context) => AppBarPage(),
+        PageName.SCAFFOLD: (context) => ScaffoldPage(),
       },
     );
   }

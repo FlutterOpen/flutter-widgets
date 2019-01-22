@@ -11,4 +11,5 @@ class PageName {
   static const ICON = "Icon";
   static const RAISE_BUTTON = "RaiseButton";
   static const APP_BAR = "AppBar";
+  static const SCAFFOLD = "Scaffold";
 }
