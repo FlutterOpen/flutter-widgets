@@ -52,4 +52,9 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.FLUTTER_LOGO,
   },
+  {
+    "title": PageName.PLACE_HOLDER,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.PLACE_HOLDER,
+  },
 ];

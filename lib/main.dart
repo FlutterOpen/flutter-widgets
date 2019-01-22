@@ -28,6 +28,7 @@ class FlutterOpenApp extends StatelessWidget {
         PageName.APP_BAR: (context) => AppBarPage(),
         PageName.SCAFFOLD: (context) => ScaffoldPage(),
         PageName.FLUTTER_LOGO: (context) => FlutterLogoPage(),
+        PageName.PLACE_HOLDER: (context) => PlaceHolderPage(),
       },
     );
   }
