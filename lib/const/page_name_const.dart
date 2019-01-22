@@ -13,4 +13,5 @@ class PageName {
   static const APP_BAR = "AppBar";
   static const SCAFFOLD = "Scaffold";
   static const FLUTTER_LOGO = "FlutterLogo";
+  static const PLACE_HOLDER = "PlaceHolder";
 }
