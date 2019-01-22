@@ -47,4 +47,9 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.SCAFFOLD,
   },
+  {
+    "title": PageName.FLUTTER_LOGO,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.FLUTTER_LOGO,
+  },
 ];

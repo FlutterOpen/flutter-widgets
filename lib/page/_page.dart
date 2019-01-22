@@ -13,3 +13,4 @@ export 'icon/icon_page.dart';
 export 'rasisebutton/raise_button_page.dart';
 export 'appbar/app_bar_page.dart';
 export 'scaffold/scaffold_page.dart';
+export 'flutterlogo/flutter_logo_page.dart';
