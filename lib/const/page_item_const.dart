@@ -42,4 +42,9 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.APP_BAR,
   },
+  {
+    "title": PageName.SCAFFOLD,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.SCAFFOLD,
+  },
 ];

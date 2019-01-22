@@ -97,7 +97,7 @@ class _HomeState extends State<HomePage> {
             crossAxisCount: 2,
             mainAxisSpacing: 4,
             crossAxisSpacing: 4,
-            childAspectRatio: 0.9),
+            childAspectRatio: 1.4),
         itemBuilder: (context, index) {
           return _item(context, index);
         },
