@@ -15,3 +15,4 @@ export 'appbar/app_bar_page.dart';
 export 'scaffold/scaffold_page.dart';
 export 'flutterlogo/flutter_logo_page.dart';
 export 'placeholder/place_holder_page.dart';
+export 'bottomnavbar/bottom_navigation_bar_page.dart';

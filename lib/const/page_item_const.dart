@@ -57,4 +57,9 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.PLACE_HOLDER,
   },
+  {
+    "title": PageName.BOTTOM_NAV_BAR,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.BOTTOM_NAV_BAR,
+  },
 ];
