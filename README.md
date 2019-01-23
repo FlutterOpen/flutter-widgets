@@ -6,6 +6,8 @@ Facebook Page| Twitter | QQ Group | Developer |
 # What is the ebook
 The ebook is a book that contains articles and code about flutter widgets.I will write articles about these widgets list below. If the widgets has the link means I have done them, otherwise are not. The whole artcile is here: [ebook articles](https://flutteropen.gitbook.io/widgets/)
 [![The plan of ebook introduce](doc/intro/youtube.png)](https://youtu.be/8fT3creSZPE)
+
+[The code structure of the flutter widgets | ebook 00](https://youtu.be/W5m1bwDvFko)
 ### Base widgets
 1 | 2 | 3 | 4 | 5 | 6
 --- | --- | --- | --- | --- | ---
