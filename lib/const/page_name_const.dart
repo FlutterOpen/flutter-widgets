@@ -14,4 +14,5 @@ class PageName {
   static const SCAFFOLD = "Scaffold";
   static const FLUTTER_LOGO = "FlutterLogo";
   static const PLACE_HOLDER = "PlaceHolder";
+  static const BOTTOM_NAV_BAR = "BottomNavigationBar";
 }
