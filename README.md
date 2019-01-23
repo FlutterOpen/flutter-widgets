@@ -17,9 +17,10 @@ The ebook is a book that contains articles and code about flutter widgets.I will
 ### Navigation
 1 | 2 | 3 | 4 | 5 |
 --- | --- | --- | --- | ---
-Scaffold |	AppBar |	BottomNavigationBar |	TabBar |	TabBarView
+[Scaffold](https://medium.com/flutteropen/flutter-widgets-scaffold-8673c0630ed4) |	[AppBar](https://medium.com/flutteropen/flutter-widgets-07-appbar-86cae58244cd) |	BottomNavigationBar |	TabBar |	TabBarView
 MaterialApp |	WidgetsApp |	Drawer | |
 
+<img src="doc/bottomnavbar/bottom_navigation_bar_01.png"  height="200"/>
 ### Button
 1 | 2 | 3 | 4 | 5 |
 --- | --- | --- | --- | ---
