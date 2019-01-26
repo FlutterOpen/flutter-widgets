@@ -15,4 +15,5 @@ class PageName {
   static const FLUTTER_LOGO = "FlutterLogo";
   static const PLACE_HOLDER = "PlaceHolder";
   static const BOTTOM_NAV_BAR = "BottomNavigationBar";
+  static const TAB_VIEW = "TabView";
 }

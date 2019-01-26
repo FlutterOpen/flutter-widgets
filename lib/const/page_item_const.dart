@@ -62,4 +62,9 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.BOTTOM_NAV_BAR,
   },
+  {
+    "title": PageName.TAB_VIEW,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.TAB_VIEW,
+  },
 ];
