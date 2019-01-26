@@ -30,6 +30,7 @@ class FlutterOpenApp extends StatelessWidget {
         PageName.FLUTTER_LOGO: (context) => FlutterLogoPage(),
         PageName.PLACE_HOLDER: (context) => PlaceHolderPage(),
         PageName.BOTTOM_NAV_BAR: (context) => BottomNavBarPage(),
+        PageName.TAB_VIEW: (context) => TabBarViewPage(),
       },
     );
   }
