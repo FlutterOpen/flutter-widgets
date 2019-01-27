@@ -30,6 +30,8 @@ MaterialApp |	WidgetsApp |	Drawer | |
 [RaiseButton](https://medium.com/flutteropen/widgets-06-raisebutton-6322e0bb2a95)	| FloatingActionButton |	FlatButton |	IconButton |	[DropdownButton](https://medium.com/flutteropen/flutter-widgets-13-dropdownbutton-d21e9c226f04)
 PopupMenuButton |	ButtonBar | | |
 
+<img src="doc/raisebutton/raise_button_01.png"  height="200"/><img src="doc/raisebutton/raise_button_02.png"  height="200"/><img src="doc/raisebutton/raise_button_03.png"  height="200"/><img src="doc/raisebutton/raise_button_04.png"  height="200"/><img src="doc/dropdownbutton/drop-down-button-01.png"  height="200"/>
+
 ### Input & selection
 1 | 2 | 3 | 4 |
 --- | --- | --- | ---
