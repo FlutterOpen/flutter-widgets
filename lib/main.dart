@@ -31,6 +31,8 @@ class FlutterOpenApp extends StatelessWidget {
         PageName.PLACE_HOLDER: (context) => PlaceHolderPage(),
         PageName.BOTTOM_NAV_BAR: (context) => BottomNavBarPage(),
         PageName.TAB_VIEW: (context) => TabBarViewPage(),
+        PageName.FLOATING_ACTION_BUTTON: (context) => FloatingActionButtonPage(),
+        PageName.DROP_DOWN_BUTTON: (context) => DropDownButtonPage(),
       },
     );
   }

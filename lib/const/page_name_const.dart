@@ -16,4 +16,6 @@ class PageName {
   static const PLACE_HOLDER = "PlaceHolder";
   static const BOTTOM_NAV_BAR = "BottomNavigationBar";
   static const TAB_VIEW = "TabView";
+  static const FLOATING_ACTION_BUTTON = "FloatingActionButton";
+  static const DROP_DOWN_BUTTON = "DropDownButton";
 }
