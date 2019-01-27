@@ -17,3 +17,5 @@ export 'flutterlogo/flutter_logo_page.dart';
 export 'placeholder/place_holder_page.dart';
 export 'bottomnavbar/bottom_navigation_bar_page.dart';
 export 'tabview/tab_bar_view_page.dart';
+export 'floatingbutton/floating_action_button_page.dart';
+export 'dropdownbutton/drop_down_button_page.dart';
