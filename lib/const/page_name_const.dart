@@ -18,4 +18,5 @@ class PageName {
   static const TAB_VIEW = "TabView";
   static const FLOATING_ACTION_BUTTON = "FloatingActionButton";
   static const DROP_DOWN_BUTTON = "DropDownButton";
+  static const POPUP_MENU_BUTTON = "PopupMenuButton";
 }
