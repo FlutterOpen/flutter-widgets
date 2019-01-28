@@ -19,3 +19,4 @@ export 'bottomnavbar/bottom_navigation_bar_page.dart';
 export 'tabview/tab_bar_view_page.dart';
 export 'floatingbutton/floating_action_button_page.dart';
 export 'dropdownbutton/drop_down_button_page.dart';
+export 'popupmenubutton/popup_menu_button_page.dart';
