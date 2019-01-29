@@ -77,4 +77,9 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.POPUP_MENU_BUTTON,
   },
+  {
+    "title": PageName.STACK,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.STACK,
+  },
 ];
