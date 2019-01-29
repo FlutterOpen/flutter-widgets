@@ -35,6 +35,7 @@ class FlutterOpenApp extends StatelessWidget {
             FloatingActionButtonPage(),
         PageName.DROP_DOWN_BUTTON: (context) => DropDownButtonPage(),
         PageName.POPUP_MENU_BUTTON: (context) => PopupMenuButtonPage(),
+        PageName.STACK: (context) => StackPage(),
       },
     );
   }

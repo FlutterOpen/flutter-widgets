@@ -19,4 +19,5 @@ class PageName {
   static const FLOATING_ACTION_BUTTON = "FloatingActionButton";
   static const DROP_DOWN_BUTTON = "DropDownButton";
   static const POPUP_MENU_BUTTON = "PopupMenuButton";
+  static const STACK = "Stack";
 }
