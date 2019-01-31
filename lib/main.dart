@@ -36,6 +36,10 @@ class FlutterOpenApp extends StatelessWidget {
         PageName.DROP_DOWN_BUTTON: (context) => DropDownButtonPage(),
         PageName.POPUP_MENU_BUTTON: (context) => PopupMenuButtonPage(),
         PageName.STACK: (context) => StackPage(),
+        PageName.STEPPER: (context) => StepperPage(),
+        PageName.SIMPLE_DIALOG: (context) => SimpleDialogPage(),
+        PageName.ALERT_DIALOG: (context) => AlertDialogPage(),
+        PageName.BOTTOM_SHEET: (context) => BottomSheetPage(),
       },
     );
   }

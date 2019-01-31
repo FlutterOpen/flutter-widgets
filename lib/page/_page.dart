@@ -21,3 +21,7 @@ export 'floatingbutton/floating_action_button_page.dart';
 export 'dropdownbutton/drop_down_button_page.dart';
 export 'popupmenubutton/popup_menu_button_page.dart';
 export 'stack/stack_page.dart';
+export 'stepper/stepper_page.dart';
+export 'simpledialog/simple_dialog_page.dart';
+export 'alertdialog/alert_dialog_page.dart';
+export 'bottomsheet/bottom_sheet_page.dart';
