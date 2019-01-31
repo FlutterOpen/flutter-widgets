@@ -20,4 +20,8 @@ class PageName {
   static const DROP_DOWN_BUTTON = "DropDownButton";
   static const POPUP_MENU_BUTTON = "PopupMenuButton";
   static const STACK = "Stack";
+  static const STEPPER = "Stepper";
+  static const SIMPLE_DIALOG = "SimpleDialog";
+  static const ALERT_DIALOG = "AlertDialog";
+  static const BOTTOM_SHEET = "BottomSheet";
 }

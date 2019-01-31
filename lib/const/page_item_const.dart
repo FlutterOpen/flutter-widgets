@@ -82,4 +82,24 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.STACK,
   },
+  {
+    "title": PageName.STEPPER,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.STEPPER,
+  },
+  {
+    "title": PageName.SIMPLE_DIALOG,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.SIMPLE_DIALOG,
+  },
+  {
+    "title": PageName.ALERT_DIALOG,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.ALERT_DIALOG,
+  },
+  {
+    "title": PageName.BOTTOM_SHEET,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.BOTTOM_SHEET,
+  },
 ];
