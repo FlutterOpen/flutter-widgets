@@ -68,6 +68,43 @@ class _DialogState extends State<SimpleDialogPage> {
         ),
       );
 
+  Widget _alertDialog() => AlertDialog(
+        title: Text(
+          "How to follow us?",
+          textAlign: TextAlign.center,
+        ),
+        titleTextStyle: TextStyle(
+            color: TEXT_BLACK, fontSize: 30, fontWeight: FontWeight.w700),
+        titlePadding: EdgeInsets.symmetric(horizontal: 30, vertical: 20),
+        content: Text("1. You should login in the facebook.\n"
+            "2. You should search the Flutter Open.\n"
+            "3. Then, you can follow the Flutter Open."),
+        contentPadding: EdgeInsets.symmetric(horizontal: 20, vertical: 20),
+        contentTextStyle: TextStyle(color: TEXT_BLACK_LIGHT, fontSize: 16),
+        actions: <Widget>[
+          Container(
+            height: 40,
+            width: 100,
+            child: FlatButton(
+              child: Text(
+                "Sure",
+                style: TextStyle(color: TEXT_BLACK_LIGHT),
+              ),
+              color: RED_LIGHT,
+              onPressed: () {
+                print("Hello");
+              },
+            ),
+          )
+        ],
+        shape: RoundedRectangleBorder(
+          side: BorderSide(
+            style: BorderStyle.none,
+          ),
+          borderRadius: BorderRadius.circular(10)
+        ),
+      );
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -86,6 +123,7 @@ class _DialogState extends State<SimpleDialogPage> {
             _padDialog(),
             _colorDialog(),
             _shapeDialog(),
+            _alertDialog(),
             SizedBox(height: 600),
           ],
         ),
