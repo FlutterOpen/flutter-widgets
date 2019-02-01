@@ -28,7 +28,7 @@ MaterialApp |	WidgetsApp |	Drawer | |
 1 | 2 | 3 | 4 | 5 |
 --- | --- | --- | --- | ---
 [RaiseButton](https://medium.com/flutteropen/widgets-06-raisebutton-6322e0bb2a95)	| FloatingActionButton |	FlatButton |	IconButton |	[DropdownButton](https://medium.com/flutteropen/flutter-widgets-13-dropdownbutton-d21e9c226f04)
-PopupMenuButton |	ButtonBar | | |
+[PopupMenuButton](https://medium.com/flutteropen/widgets-14-popupmenubutton-1f1437bbdce2) |	ButtonBar | | |
 
 <img src="doc/raisebutton/raise_button_01.png"  height="200"/><img src="doc/raisebutton/raise_button_02.png"  height="200"/><img src="doc/raisebutton/raise_button_03.png"  height="200"/><img src="doc/raisebutton/raise_button_04.png"  height="200"/><img src="doc/dropdownbutton/drop-down-button-01.png"  height="200"/>
 
@@ -41,7 +41,7 @@ Slider |	Date $Time Pickers | |
 ### Dialog
 1 | 2 | 3 | 4 | 5 |
 --- | --- | --- | --- | ---
-SimpleDialog |	AlertDialog |	BottomSheet |	ExpansionPanel |	SnackBar
+[SimpleDialog](https://medium.com/flutteropen/flutter-widgets-17-simpledialog-1cf5bfd83f5f) |	AlertDialog |	BottomSheet |	ExpansionPanel |	SnackBar
 
 ### Information
 1 | 2 | 3 | 4 | 5 |
@@ -52,7 +52,7 @@ Card | LinearProgressIndicator | CircularProgressIndicator |	GridView |
 ### Layout-single
 1 | 2 | 3 | 4 
 --- | --- | --- | --- 
-ListTile |	Stepper |	Divider | LimitedBox
+ListTile |	[Stepper](https://medium.com/flutteropen/flutter-widgets-16-stepper-485ad8d1a248) |	Divider | LimitedBox
 Padding |	Center |	Align |	FittedBox |	AspectRatio 
 Baseline |	FractionallySizedBox |	IntrinsicHeight
 OverflowBox |	SizedBox |	SizedOverflowBox |	Transform 
@@ -61,7 +61,7 @@ ConstrainedBox |  Offstage | CustomSingleChildLayout | IntrinsicWidth
 ### Layout-muti
 1 | 2 | 3 | 4 | 5
 --- | --- | --- | --- | --
-Row	| Column |	Stack |	IndexedStack | Expanded
+Row	| Column |	[Stack](https://medium.com/flutteropen/flutter-widgets-15-stack-9637858f7c62) |	IndexedStack | Expanded
 GridView |	Flow | Table |	Wrap |
 ListBody |	CustomMultiChildLayout |	LayoutBuilder |	ListView  |
 
