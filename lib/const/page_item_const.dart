@@ -98,8 +98,13 @@ const PAGE_ITEMS = [
     "click": PageName.ALERT_DIALOG,
   },
   {
-    "title": PageName.BOTTOM_SHEET,
+    "title": PageName.EXPANSION_PANEL,
     "img": PageImage.FLUTTER_OPEN,
-    "click": PageName.BOTTOM_SHEET,
+    "click": PageName.EXPANSION_PANEL,
+  },
+  {
+    "title": PageName.SNACK_BAR,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.SNACK_BAR,
   },
 ];

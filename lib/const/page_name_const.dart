@@ -24,4 +24,6 @@ class PageName {
   static const SIMPLE_DIALOG = "SimpleDialog";
   static const ALERT_DIALOG = "AlertDialog";
   static const BOTTOM_SHEET = "BottomSheet";
+  static const EXPANSION_PANEL = "ExpansionPanel";
+  static const SNACK_BAR = "SnackBar";
 }
