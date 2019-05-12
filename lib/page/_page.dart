@@ -27,3 +27,6 @@ export 'alertdialog/alert_dialog_page.dart';
 export 'bottomsheet/bottom_sheet_page.dart';
 export 'expansionpanel/expansion_panel_page.dart';
 export 'snackbar/snack_bar_page.dart';
+export 'textfield/text_field_page.dart';
+export 'chip/chip_page.dart';
+export 'slider/slider_page.dart';

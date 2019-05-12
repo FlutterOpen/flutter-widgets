@@ -107,4 +107,19 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.SNACK_BAR,
   },
+  {
+    "title": PageName.TEXT_FIELD,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.TEXT_FIELD,
+  },
+  {
+    "title": PageName.CHIP,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.CHIP,
+  },
+  {
+    "title": PageName.SLIDER,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.SLIDER,
+  },
 ];
