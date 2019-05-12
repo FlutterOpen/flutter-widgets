@@ -26,4 +26,7 @@ class PageName {
   static const BOTTOM_SHEET = "BottomSheet";
   static const EXPANSION_PANEL = "ExpansionPanel";
   static const SNACK_BAR = "SnackBar";
+  static const TEXT_FIELD = "TextField";
+  static const CHIP = "Chip";
+  static const SLIDER = "SLIDE";
 }

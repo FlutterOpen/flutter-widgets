@@ -41,6 +41,9 @@ class FlutterOpenApp extends StatelessWidget {
         PageName.ALERT_DIALOG: (context) => AlertDialogPage(),
         PageName.EXPANSION_PANEL: (context) => ExpansionPage(),
         PageName.SNACK_BAR: (context) => SnackPage(),
+        PageName.TEXT_FIELD: (context) => TextFieldPage(),
+        PageName.CHIP: (context) => ChipPage(),
+        PageName.SLIDER: (context) => SliderPage(),
       },
     );
   }
