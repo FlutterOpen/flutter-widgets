@@ -29,4 +29,6 @@ class PageName {
   static const TEXT_FIELD = "TextField";
   static const CHIP = "Chip";
   static const SLIDER = "SLIDE";
+  static const CHECK_BOX = "CheckBox";
+  static const CARD = "CARD";
 }
