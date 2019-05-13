@@ -132,4 +132,9 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.CARD,
   },
+  {
+    "title": PageName.TOOLTIP,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.TOOLTIP,
+  },
 ];

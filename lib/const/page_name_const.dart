@@ -31,4 +31,5 @@ class PageName {
   static const SLIDER = "SLIDE";
   static const CHECK_BOX = "CheckBox";
   static const CARD = "CARD";
+  static const TOOLTIP = "Tooltip";
 }

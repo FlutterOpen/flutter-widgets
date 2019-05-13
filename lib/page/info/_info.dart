@@ -4,3 +4,4 @@
 /// Email: niebin312@gmail.com
 ///
 export "CardPage.dart";
+export "TooltipPage.dart";
