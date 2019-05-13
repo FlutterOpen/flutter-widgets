@@ -44,6 +44,8 @@ class FlutterOpenApp extends StatelessWidget {
         PageName.TEXT_FIELD: (context) => TextFieldPage(),
         PageName.CHIP: (context) => ChipPage(),
         PageName.SLIDER: (context) => SliderPage(),
+        PageName.CHECK_BOX: (context) => CheckBoxPage(),
+        PageName.CARD: (context) => CardPage(),
       },
     );
   }

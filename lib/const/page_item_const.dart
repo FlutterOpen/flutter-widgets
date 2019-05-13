@@ -122,4 +122,14 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.SLIDER,
   },
+  {
+    "title": PageName.CHECK_BOX,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.CHECK_BOX,
+  },
+  {
+    "title": PageName.CARD,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.CARD,
+  },
 ];

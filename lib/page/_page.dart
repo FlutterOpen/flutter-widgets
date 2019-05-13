@@ -30,3 +30,5 @@ export 'snackbar/snack_bar_page.dart';
 export 'textfield/text_field_page.dart';
 export 'chip/chip_page.dart';
 export 'slider/slider_page.dart';
+export 'checkbox/CheckBoxPage.dart';
+export 'info/_info.dart';
