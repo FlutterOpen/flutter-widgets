@@ -79,7 +79,7 @@ class _AppBarState extends State<AppBarPage> {
 
   Widget _brightBar() => AppBar(
         title: Text(PageName.APP_BAR),
-        brightness: Brightness.dark,
+//        brightness: Brightness.dark,dark
       );
 
   Widget _iconThemeBar() => AppBar(

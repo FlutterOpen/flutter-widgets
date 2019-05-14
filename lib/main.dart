@@ -15,7 +15,6 @@ class FlutterOpenApp extends StatelessWidget {
       theme: ThemeData(
         primaryColor: BLUE_DEEP,
         accentColor: RED,
-        brightness: Brightness.light,
       ),
       home: HomePage(),
       routes: {

@@ -50,6 +50,8 @@ class _RaiseButtonState extends State<RaiseButtonPage> {
             onPressed: () {
               print("click");
             },
+
+
             child: Text(
               "textTheme:normal",
               style: TextStyle(fontSize: 40),
@@ -91,7 +93,7 @@ class _RaiseButtonState extends State<RaiseButtonPage> {
               "colorBrightness:light",
               style: TextStyle(fontSize: 40),
             ),
-            colorBrightness: Brightness.dark,
+//            colorBrightness: Brightness.dark,
           ),
           SizedBox(height: 10),
           RaisedButton(
@@ -102,7 +104,7 @@ class _RaiseButtonState extends State<RaiseButtonPage> {
               "colorBrightness:dark",
               style: TextStyle(fontSize: 40),
             ),
-            colorBrightness: Brightness.light,
+//            colorBrightness: Brightness.light,
           ),
           SizedBox(height: 10),
           RaisedButton(
@@ -113,7 +115,7 @@ class _RaiseButtonState extends State<RaiseButtonPage> {
               "colorBrightness:light\ntextTheme:accent",
               style: TextStyle(fontSize: 40),
             ),
-            colorBrightness: Brightness.light,
+//            colorBrightness: Brightness.light,
             textTheme: ButtonTextTheme.accent,
           ),
         ],
@@ -135,7 +137,7 @@ class _RaiseButtonState extends State<RaiseButtonPage> {
             color: BLUE_LIGHT,
             textTheme: ButtonTextTheme.accent,
             textColor: Colors.white,
-            colorBrightness: Brightness.light,
+//            colorBrightness: Brightness.light,
           )
         ],
       );
