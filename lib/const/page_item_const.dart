@@ -137,4 +137,9 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.TOOLTIP,
   },
+  {
+    "title": PageName.DATA_TABLE,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.DATA_TABLE,
+  },
 ];
