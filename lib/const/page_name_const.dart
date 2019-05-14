@@ -32,4 +32,5 @@ class PageName {
   static const CHECK_BOX = "CheckBox";
   static const CARD = "CARD";
   static const TOOLTIP = "Tooltip";
+  static const DATA_TABLE = "DataTable";
 }

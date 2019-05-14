@@ -15,7 +15,6 @@ class FlutterOpenApp extends StatelessWidget {
       theme: ThemeData(
         primaryColor: BLUE_DEEP,
         accentColor: RED,
-        brightness: Brightness.light,
       ),
       home: HomePage(),
       routes: {
@@ -47,6 +46,7 @@ class FlutterOpenApp extends StatelessWidget {
         PageName.CHECK_BOX: (context) => CheckBoxPage(),
         PageName.CARD: (context) => CardPage(),
         PageName.TOOLTIP: (context) => TooltipPage(),
+        PageName.DATA_TABLE: (context) => DataTablePage(),
       },
     );
   }
