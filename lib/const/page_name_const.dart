@@ -33,4 +33,5 @@ class PageName {
   static const CARD = "CARD";
   static const TOOLTIP = "Tooltip";
   static const DATA_TABLE = "DataTable";
+  static const PROGRESS_INDICATOR = "ProgressIndicator";
 }
