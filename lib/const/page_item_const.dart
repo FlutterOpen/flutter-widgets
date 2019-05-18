@@ -147,4 +147,9 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.PROGRESS_INDICATOR,
   },
+  {
+    "title": PageName.MIX_SINGLE_LAYOUT,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.MIX_SINGLE_LAYOUT,
+  },
 ];

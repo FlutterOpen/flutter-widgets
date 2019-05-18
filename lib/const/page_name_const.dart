@@ -34,4 +34,5 @@ class PageName {
   static const TOOLTIP = "Tooltip";
   static const DATA_TABLE = "DataTable";
   static const PROGRESS_INDICATOR = "ProgressIndicator";
+  static const MIX_SINGLE_LAYOUT = "MixLayout";
 }
