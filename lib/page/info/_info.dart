@@ -6,3 +6,4 @@
 export "CardPage.dart";
 export "TooltipPage.dart";
 export 'DataTablePage.dart';
+export 'ProgressIndicatorPage.dart';

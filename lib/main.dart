@@ -47,6 +47,8 @@ class FlutterOpenApp extends StatelessWidget {
         PageName.CARD: (context) => CardPage(),
         PageName.TOOLTIP: (context) => TooltipPage(),
         PageName.DATA_TABLE: (context) => DataTablePage(),
+        PageName.PROGRESS_INDICATOR: (context) => ProgressIndicatorPage(),
+        PageName.MIX_SINGLE_LAYOUT: (context) => MixPage(),
       },
     );
   }

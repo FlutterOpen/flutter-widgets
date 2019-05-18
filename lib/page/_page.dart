@@ -32,3 +32,4 @@ export 'chip/chip_page.dart';
 export 'slider/slider_page.dart';
 export 'checkbox/CheckBoxPage.dart';
 export 'info/_info.dart';
+export 'layoutsingle/_layout_single.dart';
