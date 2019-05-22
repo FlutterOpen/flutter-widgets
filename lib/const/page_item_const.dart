@@ -152,4 +152,14 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.MIX_SINGLE_LAYOUT,
   },
+  {
+    "title": PageName.INDEX_STACK,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.INDEX_STACK,
+  },
+  {
+    "title": PageName.EXPANDED,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.EXPANDED,
+  },
 ];
