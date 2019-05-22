@@ -35,4 +35,6 @@ class PageName {
   static const DATA_TABLE = "DataTable";
   static const PROGRESS_INDICATOR = "ProgressIndicator";
   static const MIX_SINGLE_LAYOUT = "MixLayout";
+  static const INDEX_STACK = "IndexedStack";
+  static const EXPANDED = "Expanded";
 }
