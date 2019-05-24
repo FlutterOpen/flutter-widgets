@@ -37,4 +37,5 @@ class PageName {
   static const MIX_SINGLE_LAYOUT = "MixLayout";
   static const INDEX_STACK = "IndexedStack";
   static const EXPANDED = "Expanded";
+  static const FLOW = "Flow";
 }
