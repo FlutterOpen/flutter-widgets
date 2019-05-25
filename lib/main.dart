@@ -52,6 +52,7 @@ class FlutterOpenApp extends StatelessWidget {
         PageName.INDEX_STACK: (context) => IndexStackPage(),
         PageName.EXPANDED: (context) => ExpandPage(),
         PageName.FLOW: (context) => FlowPage(),
+        PageName.LAYOUT: (context) => LayoutPage(),
       },
     );
   }
