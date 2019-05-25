@@ -38,4 +38,6 @@ class PageName {
   static const INDEX_STACK = "IndexedStack";
   static const EXPANDED = "Expanded";
   static const FLOW = "Flow";
+  static const LAYOUT = "Layout";
+
 }
