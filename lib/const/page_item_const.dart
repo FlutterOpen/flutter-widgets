@@ -162,4 +162,9 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.EXPANDED,
   },
+  {
+    "title": PageName.FLOW,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.FLOW,
+  },
 ];

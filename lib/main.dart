@@ -51,6 +51,7 @@ class FlutterOpenApp extends StatelessWidget {
         PageName.MIX_SINGLE_LAYOUT: (context) => MixPage(),
         PageName.INDEX_STACK: (context) => IndexStackPage(),
         PageName.EXPANDED: (context) => ExpandPage(),
+        PageName.FLOW: (context) => FlowPage(),
       },
     );
   }
