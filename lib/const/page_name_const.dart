@@ -39,5 +39,6 @@ class PageName {
   static const EXPANDED = "Expanded";
   static const FLOW = "Flow";
   static const LAYOUT = "Layout";
-
+  static const METHOD_CHANNEL = "MethodChannel";
+  static const ASSET_PAGE = "AssetsPage";
 }

@@ -34,3 +34,4 @@ export 'checkbox/CheckBoxPage.dart';
 export 'info/_info.dart';
 export 'layoutsingle/_layout_single.dart';
 export 'muti/_muti.dart';
+export 'assets/_assets.dart';
