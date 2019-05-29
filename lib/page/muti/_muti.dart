@@ -7,3 +7,4 @@ export "IndexStackPage.dart";
 export "ExpandPage.dart";
 export 'FlowPage.dart';
 export 'LayoutPage.dart';
+export 'MethodChannelPage.dart';

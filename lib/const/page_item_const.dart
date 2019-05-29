@@ -172,4 +172,19 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.LAYOUT,
   },
+  {
+    "title": PageName.METHOD_CHANNEL,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.METHOD_CHANNEL,
+  },
+  {
+    "title": PageName.ASSET_PAGE,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.ASSET_PAGE,
+  },
+  {
+    "title": PageName.ANIMATION,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.ANIMATION,
+  },
 ];
