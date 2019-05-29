@@ -42,4 +42,5 @@ class PageName {
   static const METHOD_CHANNEL = "MethodChannel";
   static const ASSET_PAGE = "AssetsPage";
   static const ANIMATION = "AnimationPage";
+  static const ANIM_CONTAINER = "AnimationContainer";
 }
