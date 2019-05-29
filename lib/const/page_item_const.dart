@@ -182,4 +182,9 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.ASSET_PAGE,
   },
+  {
+    "title": PageName.ANIMATION,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.ANIMATION,
+  },
 ];

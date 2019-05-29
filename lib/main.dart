@@ -55,6 +55,7 @@ class FlutterOpenApp extends StatelessWidget {
         PageName.LAYOUT: (context) => LayoutPage(),
         PageName.METHOD_CHANNEL: (context) => MethodChannelPage(),
         PageName.ASSET_PAGE: (context) => AssetsPage(),
+        PageName.ANIMATION: (context) => AnimationPage(),
       },
     );
   }
