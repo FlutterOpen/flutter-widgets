@@ -192,4 +192,9 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.ANIM_CONTAINER,
   },
+  {
+    "title": PageName.ANIM_CROSS_FADE,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.ANIM_CROSS_FADE,
+  },
 ];
