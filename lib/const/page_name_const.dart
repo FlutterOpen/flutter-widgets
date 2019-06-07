@@ -43,4 +43,5 @@ class PageName {
   static const ASSET_PAGE = "AssetsPage";
   static const ANIMATION = "AnimationPage";
   static const ANIM_CONTAINER = "AnimationContainer";
+  static const ANIM_CROSS_FADE = "AnimationCrossFade";
 }

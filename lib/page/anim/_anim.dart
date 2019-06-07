@@ -4,3 +4,4 @@
 /// Email: niebin312@gmail.com
 export "AnimationPage.dart";
 export 'AnimatedContainerPage.dart';
+export 'AnimCrossFadePage.dart';
