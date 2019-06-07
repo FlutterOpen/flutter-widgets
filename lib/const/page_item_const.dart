@@ -197,4 +197,9 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.ANIM_CROSS_FADE,
   },
+  {
+    "title": PageName.ANIM_HERO,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.ANIM_HERO,
+  },
 ];
