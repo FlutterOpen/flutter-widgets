@@ -59,6 +59,7 @@ class FlutterOpenApp extends StatelessWidget {
         PageName.ANIM_CONTAINER: (context) => AnimatedContainerPage(),
         PageName.ANIM_CROSS_FADE: (context) => AnimCrossFadePage(),
         PageName.ANIM_HERO: (context) => HeroPage(),
+        PageName.ANIM_FADE_TRANS: (context) => FadeTransitionPage(),
       },
     );
   }

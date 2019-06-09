@@ -45,4 +45,5 @@ class PageName {
   static const ANIM_CONTAINER = "AnimationContainer";
   static const ANIM_CROSS_FADE = "AnimationCrossFade";
   static const ANIM_HERO = "HeroPage";
+  static const ANIM_FADE_TRANS = "FadeTranstion";
 }

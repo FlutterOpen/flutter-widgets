@@ -6,3 +6,4 @@ export "AnimationPage.dart";
 export 'AnimatedContainerPage.dart';
 export 'AnimCrossFadePage.dart';
 export 'HeroPage.dart';
+export 'FadeTransitionPage.dart';
