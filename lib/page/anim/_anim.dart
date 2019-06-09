@@ -11,3 +11,4 @@ export 'PositionTransitionPage.dart';
 export 'RotationPage.dart';
 export 'DefaultTextPage.dart';
 export 'AnimListPage.dart';
+export 'AnimatedModalPage.dart';

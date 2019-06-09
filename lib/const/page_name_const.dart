@@ -50,4 +50,5 @@ class PageName {
   static const ANIM_ROTATION = "RotationTransition";
   static const ANIM_DEFAULT_TEXT = "DefaultText";
   static const ANIM_LIST = "AnimationList";
+  static const ANIM_MODAL_BARRIER = "AnimatedModalBarrier";
 }
