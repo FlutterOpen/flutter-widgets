@@ -9,3 +9,4 @@ export 'HeroPage.dart';
 export 'FadeTransitionPage.dart';
 export 'PositionTransitionPage.dart';
 export 'RotationPage.dart';
+export 'DefaultTextPage.dart';
