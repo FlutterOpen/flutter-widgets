@@ -61,7 +61,7 @@ class AnimListState extends State<AnimListPage>
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text("Hello World"),
+          title: Text(PageName.ANIM_LIST),
         ),
         body: AnimatedList(
           key: _key,
