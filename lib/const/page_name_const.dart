@@ -49,4 +49,5 @@ class PageName {
   static const ANIM_POSITION_TRANS = "PositionTransition";
   static const ANIM_ROTATION = "RotationTransition";
   static const ANIM_DEFAULT_TEXT = "DefaultText";
+  static const ANIM_LIST = "AnimationList";
 }

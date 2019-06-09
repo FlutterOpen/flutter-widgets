@@ -63,6 +63,7 @@ class FlutterOpenApp extends StatelessWidget {
         PageName.ANIM_POSITION_TRANS: (context) => PositionTransitionPage(),
         PageName.ANIM_ROTATION: (context) => RotationPage(),
         PageName.ANIM_DEFAULT_TEXT: (context) => DefaultTextPage(),
+        PageName.ANIM_LIST: (context) => AnimListPage(),
       },
     );
   }

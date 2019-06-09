@@ -222,4 +222,9 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.ANIM_DEFAULT_TEXT,
   },
+  {
+    "title": PageName.ANIM_LIST,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.ANIM_LIST,
+  },
 ];
