@@ -212,4 +212,9 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.ANIM_POSITION_TRANS,
   },
+  {
+    "title": PageName.ANIM_ROTATION,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.ANIM_ROTATION,
+  },
 ];

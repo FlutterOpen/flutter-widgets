@@ -47,4 +47,5 @@ class PageName {
   static const ANIM_HERO = "HeroPage";
   static const ANIM_FADE_TRANS = "FadeTranstion";
   static const ANIM_POSITION_TRANS = "PositionTransition";
+  static const ANIM_ROTATION = "RotationTransition";
 }
