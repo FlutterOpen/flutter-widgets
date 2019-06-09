@@ -12,24 +12,23 @@ class FadeTransitionPage extends StatefulWidget {
 
 class _FadeTransitionState extends State<FadeTransitionPage>
     with SingleTickerProviderStateMixin {
-  Animation<double> _animation;
+  Animation<double> _opacityAnim;
   AnimationController _controller;
 
   Widget _fadeTrans() => FadeTransition(
-        opacity: _animation,
+        opacity: _opacityAnim,
         child: Text(
           "Hello world",
           style: TextStyle(color: RED_LIGHT),
         ),
       );
-
   @override
   void initState() {
     _controller =
         AnimationController(duration: Duration(seconds: 3), vsync: this);
     CurvedAnimation curvedAnimation =
         CurvedAnimation(parent: _controller, curve: Curves.easeOut);
-    _animation = Tween(begin: 0.0, end: 1.0).animate(curvedAnimation);
+    _opacityAnim = Tween(begin: 0.0, end: 1.0).animate(curvedAnimation);
     super.initState();
   }
 
