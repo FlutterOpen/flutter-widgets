@@ -232,4 +232,24 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.ANIM_MODAL_BARRIER,
   },
+  {
+    "title": PageName.ANIM_SIZE,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.ANIM_SIZE,
+  },
+  {
+    "title": PageName.ANIM_WIDGET,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.ANIM_WIDGET,
+  },
+  {
+    "title": PageName.ANIM_PYH_MODEL,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.ANIM_PYH_MODEL,
+  },
+  {
+    "title": PageName.ANIM_OPACITY,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.ANIM_OPACITY,
+  },
 ];
