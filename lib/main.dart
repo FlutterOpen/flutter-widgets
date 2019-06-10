@@ -65,6 +65,10 @@ class FlutterOpenApp extends StatelessWidget {
         PageName.ANIM_DEFAULT_TEXT: (context) => DefaultTextPage(),
         PageName.ANIM_LIST: (context) => AnimListPage(),
         PageName.ANIM_MODAL_BARRIER: (context) => AnimatedModalPage(),
+        PageName.ANIM_SIZE: (context) => AnimSizePage(),
+        PageName.ANIM_WIDGET: (context) => AnimWidgetPage(),
+        PageName.ANIM_PYH_MODEL: (context) => PyhModelPage(),
+        PageName.ANIM_OPACITY: (context) => AnimOpacityPage(),
       },
     );
   }

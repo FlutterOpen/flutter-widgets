@@ -12,3 +12,7 @@ export 'RotationPage.dart';
 export 'DefaultTextPage.dart';
 export 'AnimListPage.dart';
 export 'AnimatedModalPage.dart';
+export 'AnimSizePage.dart';
+export 'AnimWidgetPage.dart';
+export 'PyhModelPage.dart';
+export 'AnimOpacityPage.dart';

@@ -51,4 +51,8 @@ class PageName {
   static const ANIM_DEFAULT_TEXT = "DefaultText";
   static const ANIM_LIST = "AnimationList";
   static const ANIM_MODAL_BARRIER = "AnimatedModalBarrier";
+  static const ANIM_SIZE = "AnimatedSize";
+  static const ANIM_WIDGET = "AnimatedWidget";
+  static const ANIM_PYH_MODEL = "PyhModel";
+  static const ANIM_OPACITY = "OpacityPage";
 }
