@@ -55,4 +55,5 @@ class PageName {
   static const ANIM_WIDGET = "AnimatedWidget";
   static const ANIM_PYH_MODEL = "PyhModel";
   static const ANIM_OPACITY = "OpacityPage";
+  static const INTER_DRAG = "Draggable";
 }

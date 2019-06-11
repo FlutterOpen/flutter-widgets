@@ -252,4 +252,9 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.ANIM_OPACITY,
   },
+  {
+    "title": PageName.INTER_DRAG,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.INTER_DRAG,
+  },
 ];
