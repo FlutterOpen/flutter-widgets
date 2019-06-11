@@ -69,6 +69,7 @@ class FlutterOpenApp extends StatelessWidget {
         PageName.ANIM_WIDGET: (context) => AnimWidgetPage(),
         PageName.ANIM_PYH_MODEL: (context) => PyhModelPage(),
         PageName.ANIM_OPACITY: (context) => AnimOpacityPage(),
+        PageName.INTER_DRAG: (context) => DraggablePage(),
       },
     );
   }
