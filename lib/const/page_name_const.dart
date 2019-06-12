@@ -56,4 +56,6 @@ class PageName {
   static const ANIM_PYH_MODEL = "PyhModel";
   static const ANIM_OPACITY = "OpacityPage";
   static const INTER_DRAG = "Draggable";
+  static const INTER_GESTURE = "Gesture";
+  static const INTER_DISMISSIBLE = "Dismissible";
 }
