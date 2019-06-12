@@ -4,3 +4,5 @@
 /// Email: niebin312@gmail.com
 ///
 export "DraggablePage.dart";
+export "GesturePage.dart";
+export "DismissiblePage.dart";
