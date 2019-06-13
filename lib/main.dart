@@ -72,6 +72,7 @@ class FlutterOpenApp extends StatelessWidget {
         PageName.INTER_DRAG: (context) => DraggablePage(),
         PageName.INTER_GESTURE: (context) => GesturePage(),
         PageName.INTER_DISMISSIBLE: (context) => DismissiblePage(),
+        PageName.INTER_POINTER: (context) => PointerPage(),
       },
     );
   }

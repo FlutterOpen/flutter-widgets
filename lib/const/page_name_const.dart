@@ -58,4 +58,6 @@ class PageName {
   static const INTER_DRAG = "Draggable";
   static const INTER_GESTURE = "Gesture";
   static const INTER_DISMISSIBLE = "Dismissible";
+  static const INTER_POINTER = "AbsorbPointer";
+  static const INTER_SCROLLABLE = "Scrollable";
 }

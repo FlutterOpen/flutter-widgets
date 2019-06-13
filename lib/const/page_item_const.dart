@@ -267,4 +267,10 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.INTER_DISMISSIBLE,
   },
+  {
+    "title": PageName.INTER_POINTER,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.INTER_POINTER,
+  },
+
 ];
