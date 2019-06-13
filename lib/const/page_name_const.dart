@@ -61,4 +61,5 @@ class PageName {
   static const INTER_POINTER = "AbsorbPointer";
   static const INTER_SCROLLABLE = "Scrollable";
   static const ASYNC_FUTURE = "FutureBuilder";
+  static const ASYNC_STREAM_BUILDER = "StreamBuilder";
 }
