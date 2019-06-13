@@ -60,4 +60,5 @@ class PageName {
   static const INTER_DISMISSIBLE = "Dismissible";
   static const INTER_POINTER = "AbsorbPointer";
   static const INTER_SCROLLABLE = "Scrollable";
+  static const ASYNC_FUTURE = "FutureBuilder";
 }
