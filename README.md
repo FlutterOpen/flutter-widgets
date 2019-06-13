@@ -1,10 +1,13 @@
-# ebook
+# Flutter Widgets
 ### :heart: Star :heart: the repo to support the project or :smile:[Follow Me](https://github.com/nb312).Thanks!
 Facebook Page| Twitter | QQ Group | Developer |
 --- | --- | --- | ---
 [Flutter Open ](https://www.facebook.com/flutteropen) | [NieBin](https://twitter.com/niebin_gg) |  963828159 |[NieBin](https://github.com/nb312)  
-# What is the ebook
-The ebook is a book that contains articles and code about flutter widgets.I will write articles about these widgets list below. If the widgets has the link means I have done them, otherwise are not. The whole artcile is here: [Flutter Widgets articles](https://flutteropen.gitbook.io/flutter-widgets)
+# What it is?
+The Project is a flutter examples of the flutter widgets. Some example contain articles and code about flutter widgets.
+
+The whole artcile is here: [Flutter Widgets articles](https://flutteropen.gitbook.io/flutter-widgets)
+
 <img src="doc/page_01.png"  height="400"/><img src="doc/page_02.png"  height="400"/><img src="doc/page_03.png"  height="400"/>
 <img src="doc/page_04.png"  height="600"/><img src="doc/page_05.png"  height="600"/>
 ### Base widgets
