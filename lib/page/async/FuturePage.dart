@@ -20,7 +20,7 @@ class _FutureState extends State<FuturePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Hello world"),
+        title: Text(PageName.ASYNC_FUTURE),
       ),
       body: Container(
         child: FutureBuilder<String>(
@@ -36,8 +36,7 @@ class _FutureState extends State<FuturePage> {
                 if (snapshot.hasError) return Text('Error: ${snapshot.error}');
                 return Text('Result: ${snapshot.data}');
             }
-            return RefreshIndicator(
-                child: null, onRefresh: null); // unreachable
+            return null; // unreachable
           },
         ),
       ),
