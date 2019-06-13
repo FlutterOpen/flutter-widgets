@@ -37,3 +37,4 @@ export 'muti/_muti.dart';
 export 'assets/_assets.dart';
 export 'anim/_anim.dart';
 export 'interation/_interaction.dart';
+export 'async/_async.dart';
