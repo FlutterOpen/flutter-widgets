@@ -13,24 +13,17 @@ The ebook is a book that contains articles and code about flutter widgets.I will
 --- | --- | --- | --- | --- | ---
 [Container](https://flutteropen.gitbook.io/widgets/flutter-widgets-01-container) |	[Row/Column](https://flutteropen.gitbook.io/ebook/flutter-open-flutter-widgets-04-row-and-column) | 	[Image](https://flutteropen.gitbook.io/ebook/flutter-open-flutter-widgets-03-image) |	[Text](https://flutteropen.gitbook.io/widgets/flutter-open-flutter-widgets-02-text) |	[Icon](https://flutteropen.gitbook.io/ebook/flutter-open-flutter-widgets-05-icon) | 
 [RaiseButton](https://flutteropen.gitbook.io/ebook/widgets-06-or-raisebutton) | [Scaffold](https://medium.com/flutteropen/flutter-widgets-scaffold-8673c0630ed4) |	[AppBar](https://medium.com/flutteropen/flutter-widgets-07-appbar-86cae58244cd) |	[FlutterLogo](https://medium.com/flutteropen/flutter-widgets-09-flutterlogo-5552b9021f8b) |	[PlaceHolder](https://medium.com/flutteropen/flutter-widgets-10-placeholder-f8949a7dc273) |
-
-<img src="doc/container/container_01.png"  height="200"/><img src="doc/container/container_02.png"  height="200"/> 
-<img src="doc/image/image_01.png"  height="200"/><img src="doc/image/image_02.png"  height="200"/><img src="doc/image/image_03.png"  height="200"/><img src="doc/image/image_04.png"  height="200"/><img src="doc/text/text_01.png"  height="200"/><img src="doc/text/text_02.png"  height="200"/><img src="doc/row/row_01.png"  height="200"/><img src="doc/row/row_02.png"  height="200"/><img src="doc/row/row_03.png"  height="200"/><img src="doc/icon/icon_01.png"  height="200"/><img src="doc/raisebutton/raise_button_01.png"  height="200"/><img src="doc/raisebutton/raise_button_02.png"  height="200"/><img src="doc/raisebutton/raise_button_03.png"  height="200"/><img src="doc/raisebutton/raise_button_04.png"  height="200"/><img src="doc/appbar/app_bar_01.png"  height="200"/><img src="doc/appbar/app_bar_03.png"  height="200"/><img src="doc/scaffold/scaffold_01.png"  height="260"/><img src="doc/scaffold/scaffold_02.png"  height="260"/><img src="doc/flutterlogo/flutterlogo_01.png"  height="260"/><img src="doc/placeholder/placeholder_01.png"  height="260"/>
 ### Navigation
 1 | 2 | 3 | 4 | 5 |
 --- | --- | --- | --- | ---
 [Scaffold](https://medium.com/flutteropen/flutter-widgets-scaffold-8673c0630ed4) |	[AppBar](https://medium.com/flutteropen/flutter-widgets-07-appbar-86cae58244cd) |	[BottomNavigationBar](https://medium.com/flutteropen/flutter-widgets-11-bottomnavigationbar-3531d625fa0c) |	[TabBar&TabBarView](https://medium.com/flutteropen/flutter-widgets-12-tabbarview-tabbar-4cdc2112991a) |
-MaterialApp |	WidgetsApp |	Drawer | |
-
-<img src="doc/bottomnavbar/bottom_navigation_bar_01.png"  height="200"/><img src="doc/tabbarview/tab-bar-view-01.png"  height="200"/>      
+MaterialApp |	WidgetsApp |	Drawer | |      
 
 ### Button
 1 | 2 | 3 | 4 | 5 |
 --- | --- | --- | --- | ---
 [RaiseButton](https://medium.com/flutteropen/widgets-06-raisebutton-6322e0bb2a95)	| FloatingActionButton |	FlatButton |	IconButton |	[DropdownButton](https://medium.com/flutteropen/flutter-widgets-13-dropdownbutton-d21e9c226f04)
 [PopupMenuButton](https://medium.com/flutteropen/widgets-14-popupmenubutton-1f1437bbdce2) |	ButtonBar | | |
-
-<img src="doc/raisebutton/raise_button_01.png"  height="200"/><img src="doc/raisebutton/raise_button_02.png"  height="200"/><img src="doc/raisebutton/raise_button_03.png"  height="200"/><img src="doc/raisebutton/raise_button_04.png"  height="200"/><img src="doc/dropdownbutton/drop-down-button-01.png"  height="200"/>
 
 ### Input & selection
 1 | 2 | 3 | 4 |
