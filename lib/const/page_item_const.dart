@@ -273,6 +273,11 @@ const PAGE_ITEMS = [
     "click": PageName.INTER_POINTER,
   },
   {
+    "title": PageName.INTER_NAV,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.INTER_NAV,
+  },
+  {
     "title": PageName.ASYNC_FUTURE,
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.ASYNC_FUTURE,
