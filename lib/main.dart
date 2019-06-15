@@ -76,7 +76,7 @@ class FlutterOpenApp extends StatelessWidget {
         PageName.INTER_NAV: (context) => NavigatorPage(),
         PageName.ASYNC_FUTURE: (context) => FuturePage(),
         PageName.ASYNC_STREAM_BUILDER: (context) => StreamBuilderPage(),
-        PageName.PAINT_OPACITY: (context) => PaintingPage(),
+        PageName.PAINTING: (context) => PaintingPage(),
       },
     );
   }

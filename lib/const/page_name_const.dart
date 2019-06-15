@@ -63,5 +63,5 @@ class PageName {
   static const INTER_NAV = "Navigator";
   static const ASYNC_FUTURE = "FutureBuilder";
   static const ASYNC_STREAM_BUILDER = "StreamBuilder";
-  static const PAINT_OPACITY = "Opacity";
+  static const PAINTING = "Painting";
 }

@@ -117,7 +117,7 @@ class _OpacityState extends State<PaintingPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Hello world"),
+        title: Text(PageName.PAINTING),
       ),
       body: SingleChildScrollView(
         child: Column(

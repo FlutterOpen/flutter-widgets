@@ -288,8 +288,8 @@ const PAGE_ITEMS = [
     "click": PageName.ASYNC_STREAM_BUILDER,
   },
   {
-    "title": PageName.PAINT_OPACITY,
+    "title": PageName.PAINTING,
     "img": PageImage.FLUTTER_OPEN,
-    "click": PageName.PAINT_OPACITY,
+    "click": PageName.PAINTING,
   },
 ];
