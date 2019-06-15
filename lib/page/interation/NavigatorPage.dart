@@ -8,8 +8,6 @@ import 'package:flutter_widgets/const/_const.dart';
 import 'NavPage.dart';
 
 class NavigatorPage extends StatefulWidget {
-  Key _key = GlobalKey<_NavigatorState>();
-
   @override
   _NavigatorState createState() => _NavigatorState();
 }

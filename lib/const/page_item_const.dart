@@ -287,4 +287,9 @@ const PAGE_ITEMS = [
     "img": PageImage.FLUTTER_OPEN,
     "click": PageName.ASYNC_STREAM_BUILDER,
   },
+  {
+    "title": PageName.PAINT_OPACITY,
+    "img": PageImage.FLUTTER_OPEN,
+    "click": PageName.PAINT_OPACITY,
+  },
 ];
